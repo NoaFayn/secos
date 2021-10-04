@@ -7,4 +7,6 @@
 *.elf
 *.map
 *.patch
+**/compile_commands.json
+**/tags
 !.gitignore
